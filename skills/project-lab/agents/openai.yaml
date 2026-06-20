@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Lab"
+  short_description: "Curate projects that prove transfer"
+  default_prompt: "Use $project-lab to curate a bounded project for my current competencies."

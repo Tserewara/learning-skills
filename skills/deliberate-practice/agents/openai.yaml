@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deliberate Practice"
+  short_description: "Train one observable subskill tightly"
+  default_prompt: "Use $deliberate-practice to design and run a focused practice session."

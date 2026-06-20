@@ -1,0 +1,26 @@
+:root {
+  color-scheme: light dark;
+  --paper: #fbfaf7;
+  --ink: #1e2422;
+  --muted: #66706c;
+  --line: #d7dcd8;
+  --accent: #1f6f5f;
+  --soft: #e9f2ef;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0 auto; max-width: 76ch; padding: 4rem 1.5rem 8rem; background: var(--paper); color: var(--ink); font-size: 1.08rem; line-height: 1.65; }
+h1, h2, h3 { line-height: 1.15; text-wrap: balance; }
+h1 { font-size: clamp(2.4rem, 8vw, 4.8rem); letter-spacing: -.04em; }
+h2 { margin-top: 3.5rem; border-bottom: 1px solid var(--line); padding-bottom: .35rem; }
+a { color: var(--accent); text-underline-offset: .2em; }
+code, pre { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+pre { overflow: auto; padding: 1rem; border: 1px solid var(--line); border-radius: .5rem; }
+.eyebrow { color: var(--accent); font: 700 .8rem/1.2 ui-sans-serif, system-ui, sans-serif; letter-spacing: .12em; text-transform: uppercase; }
+.lede { color: var(--muted); font-size: 1.25rem; }
+.callout { margin: 2rem 0; padding: 1rem 1.2rem; border-left: .3rem solid var(--accent); background: var(--soft); }
+.prompt { margin: 1.5rem 0; padding: 1.2rem; border: 1px solid var(--line); border-radius: .5rem; }
+.evidence { font-family: ui-sans-serif, system-ui, sans-serif; font-size: .94rem; color: var(--muted); }
+@media (prefers-color-scheme: dark) { :root { --paper: #151917; --ink: #e8ece9; --muted: #abb5b0; --line: #37413c; --accent: #75c9b5; --soft: #1d2b27; } }
+@media print { body { max-width: none; padding: 1.5cm; font-size: 10.5pt; } a { color: inherit; } .no-print { display: none; } }

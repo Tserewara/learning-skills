@@ -1,0 +1,4 @@
+interface:
+  display_name: "Retention Coach"
+  short_description: "Schedule effortful delayed retrieval"
+  default_prompt: "Use $retention-coach to run my due reviews and update the retention queue."

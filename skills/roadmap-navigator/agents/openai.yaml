@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roadmap Navigator"
+  short_description: "Choose the next learnable competency"
+  default_prompt: "Use $roadmap-navigator to map my roadmap and choose the next competency."
