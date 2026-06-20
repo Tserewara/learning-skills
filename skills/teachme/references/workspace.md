@@ -37,7 +37,15 @@ Keep a short annotated list. Record why a source is trusted and which competency
 
 ## GLOSSARY.md
 
-Use one canonical term per concept. Add a term only when the learner can explain it. Keep definitions short and operational.
+The canonical vocabulary for the workspace. Use one canonical term per concept; list rival names as aliases to avoid. Add a term only when the learner can use it correctly — it records compressed understanding, not a list to study from. Keep definitions to one or two operational sentences, and prefer the glossary's own terms inside other definitions.
+
+```markdown
+# {Topic} Glossary
+
+**{Canonical term}**:
+{One or two sentences: what it IS, operationally.}
+_Avoid_: {alias}, {alias}
+```
 
 ## NOTES.md
 

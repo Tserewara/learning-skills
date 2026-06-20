@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "deliberate-practice": {
+      "source": "Tserewara/learning-skills",
+      "sourceType": "github",
+      "skillPath": "skills/deliberate-practice/SKILL.md",
+      "computedHash": "9538f0c591309ade2e653d84364fd3c17ab572d0d347336b64c03647365ad233"
+    },
+    "project-lab": {
+      "source": "Tserewara/learning-skills",
+      "sourceType": "github",
+      "skillPath": "skills/project-lab/SKILL.md",
+      "computedHash": "90b5a92706bae5c138b4afb354cb9a65f07e4affe6eca14c9085cf9d906bcf86"
+    },
+    "retention-coach": {
+      "source": "Tserewara/learning-skills",
+      "sourceType": "github",
+      "skillPath": "skills/retention-coach/SKILL.md",
+      "computedHash": "b39c99c02fcb4c15b5f03edc99ce455927e1588ce58aad99108be1d2f68b293e"
+    },
+    "roadmap-navigator": {
+      "source": "Tserewara/learning-skills",
+      "sourceType": "github",
+      "skillPath": "skills/roadmap-navigator/SKILL.md",
+      "computedHash": "0290b720ad25037b9f2f9306120457ed65abc8e0715999a9dc9d809bc2be2472"
+    },
+    "teachme": {
+      "source": "Tserewara/learning-skills",
+      "sourceType": "github",
+      "skillPath": "skills/teachme/SKILL.md",
+      "computedHash": "d5f5ba081a72aa0b583309a031a0c1f594394085a9a607529f2a924f6f55a143"
+    }
+  }
+}
