@@ -6,13 +6,13 @@ A small, composable skill set for durable learning. The package treats a reposit
 
 The skills split on one decision each:
 
-- `teach` creates one short lesson in the learner's proximal zone.
+- `teachme` creates one short lesson in the learner's proximal zone.
 - `roadmap-navigator` maps competencies and chooses the next frontier.
 - `retention-coach` runs delayed retrieval and schedules the next review.
 - `deliberate-practice` trains one observable subskill in a tight loop.
 - `project-lab` curates bounded projects that integrate skills and test transfer.
 
-`teach` is the human-invoked entry point. The other skills are model-invoked disciplines it can route toward. A future version may add `learning-journal` and `teach-back-video` after the evidence pipeline is stable.
+`teachme` is the human-invoked entry point. The other skills are model-invoked disciplines it can route toward. A future version may add `learning-journal` and `teach-back-video` after the evidence pipeline is stable.
 
 ## Workspace contract
 
@@ -57,7 +57,7 @@ These rules are informed by work on deliberate practice, active engagement, erro
 
 ## Attribution
 
-`teach` is adapted from Matt Pocock's [`teach`](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) skill. The package design also follows his `writing-great-skills` principles: predictable process, leading words, sharp completion criteria, progressive disclosure, and aggressive pruning. Matt Pocock's repository is MIT licensed; its copyright notice is preserved in `NOTICE`.
+`teachme` is adapted from Matt Pocock's [`teach`](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach) skill. The package design also follows his `writing-great-skills` principles: predictable process, leading words, sharp completion criteria, progressive disclosure, and aggressive pruning. Matt Pocock's repository is MIT licensed; its copyright notice is preserved in `NOTICE`.
 
 ## Validation
 

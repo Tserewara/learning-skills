@@ -17,7 +17,7 @@ Define the task, constraints, success signal, error classes, and time budget. Us
 
 ## 2. Establish a baseline
 
-Run one representative attempt before teaching a workaround. Capture result, latency when meaningful, scaffolding used, and error tags. If the learner cannot begin because the mental model is missing, stop and route to `teach`.
+Run one representative attempt before teaching a workaround. Capture result, latency when meaningful, scaffolding used, and error tags. If the learner cannot begin because the mental model is missing, stop and route to `teachme`.
 
 **Done:** the baseline exposes a trainable error or proves that a different bottleneck should be selected.
 

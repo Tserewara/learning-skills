@@ -31,7 +31,7 @@ Compare the response with the evidence criterion. Name the smallest discrepancy.
 
 Record durable misconceptions in `retention/MISCONCEPTIONS.md`. Do not reward polished wording that lacks the causal relationship or procedure being tested.
 
-**Done:** the learner has corrected the discrepancy or the item is routed back to `teach` or `deliberate-practice`.
+**Done:** the learner has corrected the discrepancy or the item is routed back to `teachme` or `deliberate-practice`.
 
 ## 4. Schedule from performance
 

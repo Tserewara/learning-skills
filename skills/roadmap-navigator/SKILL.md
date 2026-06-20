@@ -47,7 +47,7 @@ Prefer foundational bottlenecks over attractive electives. Present the choice, r
 
 ## 4. Route execution
 
-- Route new mental models to `teach`.
+- Route new mental models to `teachme`.
 - Route fragile prior learning to `retention-coach`.
 - Route a narrow performance bottleneck to `deliberate-practice`.
 - Route integration of stable competencies to `project-lab`.

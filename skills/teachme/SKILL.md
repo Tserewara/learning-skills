@@ -1,9 +1,9 @@
 ---
-name: teach
+name: teachme
 description: Teach the user a new skill or concept through a stateful, repository-backed learning workspace. Use when the user explicitly invokes the skill to begin or continue learning across sessions.
 ---
 
-# Teach
+# Teachme
 
 Treat the current directory as a persistent learning workspace. A **lesson** is the unit of teaching: one small, self-contained HTML experience tied to the learner's mission.
 
