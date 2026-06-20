@@ -6,7 +6,7 @@ A small, composable skill set for durable learning. The package treats a reposit
 
 The skills split on one decision each:
 
-- `teachme` creates one short lesson in the learner's proximal zone.
+- `teachme` creates one short lesson in the learner's proximal zone, plus the durable scaffolding around it — a printable reference sheet, the canonical `GLOSSARY.md`, and the `competency_id` the other skills consume.
 - `roadmap-navigator` maps competencies and chooses the next frontier.
 - `retention-coach` runs delayed retrieval and schedules the next review.
 - `deliberate-practice` trains one observable subskill in a tight loop.
