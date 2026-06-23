@@ -8,6 +8,7 @@ The skills split on one decision each:
 
 - `teachme` creates one short lesson in the learner's proximal zone, plus the durable scaffolding around it — a printable reference sheet, the canonical `GLOSSARY.md`, and the `competency_id` the other skills consume.
 - `roadmap-navigator` maps competencies and chooses the next frontier.
+- `worked-example` teaches a repeatable pattern through a faded series of solved examples with self-explanation, between concept and practice.
 - `retention-coach` runs delayed retrieval and schedules the next review.
 - `deliberate-practice` trains one observable subskill in a tight loop.
 - `project-lab` curates bounded projects that integrate skills and test transfer.
