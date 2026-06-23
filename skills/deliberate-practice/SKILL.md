@@ -13,6 +13,8 @@ Read the mission and recent evidence. Convert a broad goal into one observable s
 
 Define the task, constraints, success signal, error classes, and time budget. Use [references/practice-state.md](references/practice-state.md).
 
+A drill trains a pattern the learner can already start; it does not teach one. If the learner cannot begin a single attempt without scaffolding, the bottleneck is pattern extraction, not execution — route to `worked-example` first and return here once an attempt is possible.
+
 **Done:** one subskill has a binary or measured success signal that can be observed in a short attempt.
 
 ## 2. Establish a baseline

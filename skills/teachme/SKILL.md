@@ -82,6 +82,7 @@ Record misconceptions in the owning skill's state. Update `NOTES.md` only for du
 ## Route the next need
 
 - Use `roadmap-navigator` when the next competency or prerequisite is unclear.
+- Use `worked-example` when the learner grasps the concept but cannot yet start a problem alone and needs the pattern shown through faded examples.
 - Use `retention-coach` when understanding exists but needs delayed retrieval.
 - Use `deliberate-practice` when one subskill needs fluency through repeated attempts.
 - Use `project-lab` when several stable skills need integration or transfer.
